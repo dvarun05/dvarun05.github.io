@@ -1,1 +1,1 @@
-alert("Hi I'm VARUN");
+console.log("Welcome to the Page")
