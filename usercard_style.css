@@ -4,7 +4,7 @@
 
 .card{
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-   width: 25%;
+   width: 30%;
    padding-left: 10px;
    padding-top: 10px;
    padding-bottom: 10px;
@@ -29,5 +29,5 @@
 
 .toggle{
     background-color: rgb(240, 205, 10);
-    color: aqua ;
+    color: rgb(14, 15, 15) ;
 }
