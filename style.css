@@ -1,10 +1,14 @@
+body{
+  background-color: skyblue;
+}
 h2{
   font-weight: bold;
   color: brown;
 }
 table, th, td {
-    border: 1px solid black;
+    border: 2px solid black;
     border-collapse: collapse;
+    margin-left: 80px;
   }
   th, td {
     background-color: goldenrod;
